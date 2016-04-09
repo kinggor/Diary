@@ -1,7 +1,7 @@
 //
 //  AppDelegate.swift
 //  Diary
-//
+//  test
 //  Created by kevinzhow on 15/5/19.
 //  Copyright (c) 2015年 kevinzhow. All rights reserved.
 //
